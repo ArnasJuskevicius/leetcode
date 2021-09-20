@@ -79,6 +79,3 @@ const isArrayValid = (array) => {
 // [6,8,5,0,0,6,5]
 // [0,1,2,3,4,5,6,7,8,9,10]
 console.log(trap([0,1,2,3,4,5,6,7,8,9,10]))
-// console.log([7,9,7,3].slice(1 + 2))
-// console.log([7,9,7,3].findIndex(element => element === 9))
-// console.log(getFirstPillar([7,9,7,3]))
